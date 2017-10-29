@@ -1,0 +1,4 @@
+﻿Paper 1 (PLOS)
+AutoDockFR:Advances in Protein-Ligand Docking with Explicitly Specified Binding Site Flexibility
+
+This paper deals with the AutoDock for Flexible Receptors(AFDFR) which is a method, that presents various possible conformational changes of functional side-chains of proteins. By examining the different possible conformational changes unknown reactions between a ligand and an off-target of the protein can be observed.
