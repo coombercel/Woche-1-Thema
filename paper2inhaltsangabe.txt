@@ -1,0 +1,6 @@
+﻿Paper 2(Arxiv)
+An Exact Algorithm for Side-Chain Placement in Protein Design
+
+This paper deals with an algorithm that predicts the placement of the functional sidechain of a protein and involved amino acids. It can be applied on larger and smaller aminoacid sequences.
+
+
